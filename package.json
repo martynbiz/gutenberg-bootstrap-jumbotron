@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A custom block for Gutenberg Cloud",
   "main": "build/index.js",
+  "homepage": "https://github.com/martynbiz/gutenberg-jumbotron",
   "gutenbergCloud": {
     "js": "build/index.js",
     "css": "build/style.css",
