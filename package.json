@@ -1,9 +1,9 @@
 {
-  "name": "@martynbiz/gutenberg-jumbotron-block",
+  "name": "@martynbiz/gutenberg-bootstrap-jumbotron",
   "version": "1.0.0",
   "description": "A custom block for Gutenberg Cloud",
   "main": "build/index.js",
-  "homepage": "https://github.com/martynbiz/gutenberg-jumbotron",
+  "homepage": "https://github.com/martynbiz/gutenberg-bootstrap-jumbotron",
   "gutenbergCloud": {
     "js": "build/index.js",
     "css": "build/style.css",
